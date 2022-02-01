@@ -1,0 +1,27 @@
+|appetite|
+ -for users
+   > index.php
+   > contact.php
+   > about.php
+   > feed.php
+   > cart.php
+   > user-profile.php
+   > user-feedback.php
+   > user-terms.php
+ -for riders
+   > rider.php
+   > orders.php
+   > rider-profile.php
+   > rider-feedback.php
+   > rider-terms.php
+ -for owners
+   > owner.php
+   > add-shop.php
+   > owner-terms.php
+   > owner-profile.php
+ -for admin
+   > admin.php
+   > user-handle.php
+   > rider-handle.php
+   > feedback.php
+   > user-messages.php
