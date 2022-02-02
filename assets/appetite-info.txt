@@ -1,0 +1,1 @@
+theme color - Hex - #485c84 / RGB - rgb(72,92,132)
